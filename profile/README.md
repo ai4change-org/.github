@@ -14,21 +14,29 @@
 <br>
 
 <img src="https://img.shields.io/badge/AI_as_the_Great_Equalizer-00D4AA?style=for-the-badge&labelColor=0A0E1A" alt="AI as the Great Equalizer">
+&nbsp;
+<img src="https://img.shields.io/badge/Open_Source_Forever-7C3AED?style=for-the-badge&labelColor=0A0E1A" alt="Open Source Forever">
+&nbsp;
+<img src="https://img.shields.io/badge/Community_Driven-FF6B35?style=for-the-badge&labelColor=0A0E1A" alt="Community Driven">
 
 <br><br>
 
-**Real people from around the world, each using AI as their instrument**
-**to solve humanity's most pressing problems. Together. In the open.**
+### **Real people from around the world, each using AI as their instrument**
+### **to solve humanity's most pressing problems. Together. In the open.**
+
+<br>
 
 *Inspired by [Playing for Change](https://playingforchange.com) — but with code, not chords.*
 
 <br>
 
 [![Website](https://img.shields.io/badge/Website-ai4change--org.github.io-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change-org.github.io)
+[![Twitter](https://img.shields.io/badge/Twitter-@ai4changeorg-0A0E1A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ai4changeorg)
 [![Problems](https://img.shields.io/github/issues/ai4change-org/problems?label=Problems%20Submitted&color=FF6B35&style=flat-square)](https://github.com/ai4change-org/problems/issues)
 [![Contributors](https://img.shields.io/github/contributors/ai4change-org/.github?label=Contributors&color=7C3AED&style=flat-square)](https://github.com/orgs/ai4change-org/people)
 [![Stars](https://img.shields.io/github/stars/ai4change-org?label=Org%20Stars&color=00D4AA&style=flat-square)](https://github.com/ai4change-org)
 [![License](https://img.shields.io/badge/License-MIT-0A0E1A?style=flat-square)](LICENSE)
+[![Discussions](https://img.shields.io/github/discussions/ai4change-org/.github?label=Discussions&color=7C3AED&style=flat-square)](https://github.com/orgs/ai4change-org/discussions)
 
 ---
 
@@ -163,49 +171,6 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 <br>
 
-## Quick Stats
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**3**
-<br><sub>Repositories</sub>
-
-</td>
-<td align="center" width="20%">
-
-**Phase 1**
-<br><sub>Foundation</sub>
-
-</td>
-<td align="center" width="20%">
-
-[![Issues](https://img.shields.io/github/issues/ai4change-org/problems?label=&color=FF6B35&style=flat-square)](https://github.com/ai4change-org/problems/issues)
-<br><sub>Problems Submitted</sub>
-
-</td>
-<td align="center" width="20%">
-
-[![Contributors](https://img.shields.io/github/contributors/ai4change-org/.github?label=&color=7C3AED&style=flat-square)](https://github.com/orgs/ai4change-org/people)
-<br><sub>Contributors</sub>
-
-</td>
-<td align="center" width="20%">
-
-**5**
-<br><sub>Focus Areas</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-<br>
-
 ## What Makes This Different
 
 </div>
@@ -226,11 +191,79 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 <br>
 
+## Community Stats
+
+<table>
+<tr>
+<td align="center" width="16%">
+
+[![Issues](https://img.shields.io/github/issues/ai4change-org/problems?label=&color=FF6B35&style=flat-square)](https://github.com/ai4change-org/problems/issues)
+<br><sub>Problems Submitted</sub>
+
+</td>
+<td align="center" width="16%">
+
+[![Contributors](https://img.shields.io/github/contributors/ai4change-org/.github?label=&color=7C3AED&style=flat-square)](https://github.com/orgs/ai4change-org/people)
+<br><sub>Contributors</sub>
+
+</td>
+<td align="center" width="16%">
+
+[![Stars](https://img.shields.io/github/stars/ai4change-org?label=&color=00D4AA&style=flat-square)](https://github.com/ai4change-org)
+<br><sub>Stars</sub>
+
+</td>
+<td align="center" width="16%">
+
+[![Forks](https://img.shields.io/github/forks/ai4change-org/.github?label=&color=7C3AED&style=flat-square)](https://github.com/ai4change-org/.github/forks)
+<br><sub>Forks</sub>
+
+</td>
+<td align="center" width="16%">
+
+[![Discussions](https://img.shields.io/github/discussions/ai4change-org/.github?label=&color=00D4AA&style=flat-square)](https://github.com/orgs/ai4change-org/discussions)
+<br><sub>Discussions</sub>
+
+</td>
+<td align="center" width="16%">
+
+**5**
+<br><sub>Focus Areas</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+## Latest Blog Posts
+
+</div>
+
+<!-- BLOG-POSTS:START -->
+- [Introducing AI4Change: AI as the Great Equalizer](https://ai4change-org.github.io/blog/001-introducing-ai4change) — Why we started this, the Playing for Change parallel, and what comes next.
+- [The First 5 Problems: Seeds for Our First "Songs"](https://ai4change-org.github.io/blog/002-first-five-problems) — Agriculture, education, health, environment, and disaster response — real challenges from real communities.
+<!-- BLOG-POSTS:END -->
+
+> *More posts coming soon. Follow us on [Twitter](https://twitter.com/ai4changeorg) for updates.*
+
+<div align="center">
+
+<br>
+
+---
+
+<br>
+
 ## Get Involved
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **Submit a Problem**
 <br><sub>Share a challenge from your community</sub>
@@ -238,7 +271,7 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 <a href="https://github.com/ai4change-org/problems/issues/new"><img src="https://img.shields.io/badge/Submit-FF6B35?style=for-the-badge&logoColor=white" alt="Submit Problem"></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **Join the Discussion**
 <br><sub>Shape the future of AI4Change</sub>
@@ -246,7 +279,7 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 <a href="https://github.com/orgs/ai4change-org/discussions"><img src="https://img.shields.io/badge/Discuss-7C3AED?style=for-the-badge&logoColor=white" alt="Discussions"></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 
 **Read the Manifesto**
 <br><sub>Understand the why behind the what</sub>
@@ -254,7 +287,15 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 <a href="https://github.com/ai4change-org/.github/blob/main/docs/MANIFESTO.md"><img src="https://img.shields.io/badge/Read-0A0E1A?style=for-the-badge&logoColor=white" alt="Manifesto"></a>
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+
+**Your First Contribution**
+<br><sub>Step-by-step guide to getting started</sub>
+<br><br>
+<a href="https://github.com/ai4change-org/.github/blob/main/docs/onboarding/FIRST-CONTRIBUTION.md"><img src="https://img.shields.io/badge/Start-00D4AA?style=for-the-badge&logoColor=white" alt="First Contribution"></a>
+
+</td>
+<td align="center" width="20%">
 
 **Star & Share**
 <br><sub>Help us reach more people</sub>
@@ -275,9 +316,11 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 [![Website](https://img.shields.io/badge/Website-ai4change--org.github.io-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change-org.github.io)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-@ai4change__org-0A0E1A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ai4change_org)
+[![Twitter](https://img.shields.io/badge/Twitter-@ai4changeorg-0A0E1A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ai4changeorg)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AI4Change-7C3AED?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ai4change-org)
+&nbsp;&nbsp;
+[![Discussions](https://img.shields.io/badge/Discussions-Join_the_Conversation-00D4AA?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/ai4change-org/discussions)
 
 <br>
 
@@ -292,6 +335,9 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 [Roadmap](https://github.com/ai4change-org/.github/blob/main/docs/ROADMAP.md) ·
 [Community](https://github.com/ai4change-org/.github/blob/main/docs/COMMUNITY.md) ·
 [Governance](https://github.com/ai4change-org/.github/blob/main/GOVERNANCE.md) ·
+[Press Kit](https://github.com/ai4change-org/.github/blob/main/docs/press/ONE-PAGER.md) ·
+[FAQ](https://github.com/ai4change-org/.github/blob/main/docs/press/FAQ.md) ·
+[First Contribution](https://github.com/ai4change-org/.github/blob/main/docs/onboarding/FIRST-CONTRIBUTION.md) ·
 [Security](https://github.com/ai4change-org/.github/blob/main/SECURITY.md) ·
 [Support](https://github.com/ai4change-org/.github/blob/main/SUPPORT.md)
 
