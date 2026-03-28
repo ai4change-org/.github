@@ -1,0 +1,25 @@
+AI IMAGE GENERATION PROMPT — LinkedIn Post 02: What Is AI4Change?
+
+STYLE: Clean infographic / data visualization aesthetic
+DIMENSIONS: 1200x627px (LinkedIn recommended)
+COLOR PALETTE: Primary background Deep Space (#0A0E1A), accents in Emerald Teal (#00D4AA), Electric Violet (#7C3AED), Warm Coral (#FF6B35)
+
+COMPOSITION:
+- Center: A large, simplified flowchart/pipeline diagram showing the AI4Change process:
+  1. (Warm Coral circle) "Problem" with small people icons submitting
+  2. (Electric Violet circle) "Community" with discussion bubble icons
+  3. (Emerald Teal circle) "Build" with code/gear icons and AI sparkle
+  4. (Emerald Teal circle) "Ship" with open-source/globe icon
+  5. Connected by flowing lines in gradient from Warm Coral → Electric Violet → Emerald Teal
+- Surrounding the pipeline: Tiny icons representing different problem areas — a plant/crop, a book, a heartbeat, a cloud/air, a wave/flood — floating in the background at low opacity.
+- Top center: "AI4Change" wordmark in Emerald Teal.
+- Tagline below wordmark: "AI as the Great Equalizer" in Cloud White (#F8FAFC).
+
+KEY STATS TO INCLUDE (as small callout badges):
+- "Open Source" badge in Emerald Teal
+- "Free Forever" badge in Electric Violet
+- "Community-Driven" badge in Warm Coral
+
+MOOD: Clean, systematic, accessible. It should look like a well-designed tech product explainer, but with warmth. Not cold corporate — human and inviting.
+
+DO NOT INCLUDE: Photorealistic imagery, complex diagrams, small unreadable text, AI/robot imagery, binary code aesthetic.

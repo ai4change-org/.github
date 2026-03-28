@@ -1,0 +1,18 @@
+AI IMAGE GENERATION PROMPT — LinkedIn Post 04: Call for Volunteers
+
+STYLE: Warm community illustration, diverse silhouettes
+DIMENSIONS: 1200x627px (LinkedIn recommended)
+COLOR PALETTE: Primary background Deep Space (#0A0E1A), accents in Emerald Teal (#00D4AA), Electric Violet (#7C3AED), Warm Coral (#FF6B35)
+
+COMPOSITION:
+- Center: A large circle (like a vinyl record or a globe) made up of diverse abstract human silhouettes — different heights, body types, poses — arranged in a circle facing inward. Each silhouette in a different brand color (Emerald Teal, Electric Violet, Warm Coral, Cloud White).
+- Inside the circle: The AI4Change "song" metaphor icons — a code bracket, a data point, a document, a camera, a plant, a stethoscope — floating gently, representing the different types of contributions.
+- Each silhouette has a tiny label icon near it: code brackets for developers, pen for designers, megaphone for storytellers, globe for translators, magnifying glass for domain experts, hand-up for problem submitters.
+- Background: Subtle dotted world map connecting the silhouettes with thin lines, suggesting global connection.
+- Top: Headline in Cloud White: "Join the Band"
+- Bottom: Subhead in Emerald Teal: "Every instrument matters."
+- Bottom right corner: "AI4Change" wordmark
+
+MOOD: Welcoming, inclusive, warm. The image should make someone think "I could be one of those people." Not corporate recruitment — community gathering. The feeling of joining something meaningful at the ground floor.
+
+DO NOT INCLUDE: Corporate headshots, stock photo diversity poses, handshake imagery, org chart aesthetics, any text that implies hierarchy.

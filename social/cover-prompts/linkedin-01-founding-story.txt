@@ -1,0 +1,20 @@
+AI IMAGE GENERATION PROMPT — LinkedIn Post 01: The Founding Story
+
+STYLE: Cinematic infographic, modern editorial illustration
+DIMENSIONS: 1200x627px (LinkedIn recommended)
+COLOR PALETTE: Primary background Deep Space (#0A0E1A), accents in Emerald Teal (#00D4AA), Electric Violet (#7C3AED), Warm Coral (#FF6B35)
+
+COMPOSITION:
+- Left third: A lone figure silhouette sitting at a desk with a laptop, bathed in cool blue light from the screen. The screen shows a faint play button icon. Headphones on. Late-night atmosphere — dark room, single lamp.
+- Center: A flowing wave of light/energy emanating from the screen, transitioning from blue to Emerald Teal, connecting left to right.
+- Right two-thirds: The wave splits into multiple streams connecting to silhouettes of people around the world — a farmer in a field, a scientist at a desk, a designer with a tablet, a student with a notebook. Each person is highlighted in a different brand color.
+- Background: Subtle world map outline in very dark grey (#151926), almost invisible but present.
+- Bottom left corner: "AI4Change" wordmark in Emerald Teal, clean sans-serif.
+
+TEXT OVERLAY (add in post-production):
+- Top: "Every solution starts with a problem."
+- Bottom: "ai4change-org.github.io"
+
+MOOD: Inspirational, late-night discovery, connection across distance. Warm despite the dark palette. The moment of realization.
+
+DO NOT INCLUDE: Stock photo people, photorealistic faces, logos of other organizations, musical instruments, literal playing for change imagery.

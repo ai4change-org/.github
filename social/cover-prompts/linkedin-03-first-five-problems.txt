@@ -1,0 +1,27 @@
+AI IMAGE GENERATION PROMPT — LinkedIn Post 03: The First Five Problems
+
+STYLE: Bold infographic with problem showcase cards
+DIMENSIONS: 1200x627px (LinkedIn recommended)
+COLOR PALETTE: Primary background Deep Space (#0A0E1A), accents in Emerald Teal (#00D4AA), Electric Violet (#7C3AED), Warm Coral (#FF6B35)
+
+COMPOSITION:
+- Layout: 5 vertical "problem cards" arranged side by side, slightly overlapping, fanning out like a hand of cards.
+- Each card has:
+  - A large number (01-05) in Warm Coral
+  - A simple icon representing the problem area
+  - A short label in Emerald Teal
+
+Card details:
+  Card 1: Number "01", crop/plant icon, "Crop Disease" label, green tint accent
+  Card 2: Number "02", book/school icon, "Literacy Tools" label, violet tint accent
+  Card 3: Number "03", heartbeat/health icon, "Disease Tracking" label, blue tint accent
+  Card 4: Number "04", cloud/wind icon, "Air Quality" label, yellow tint accent
+  Card 5: Number "05", wave/shield icon, "Disaster Response" label, red tint accent
+
+- Above the cards: Headline in Cloud White: "5 Problems AI Could Solve Today"
+- Below the cards: Subtext in Slate: "But nobody's building the solutions. Until now."
+- Bottom right: "AI4Change" wordmark in Emerald Teal
+
+MOOD: Urgent but hopeful. The problems are serious but the design signals that action is being taken. Clean and scannable — someone should grasp the 5 areas at a glance while scrolling LinkedIn.
+
+DO NOT INCLUDE: Photorealistic disaster/poverty imagery, distressed people, graphic health imagery, complex charts or data.

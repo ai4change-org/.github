@@ -1,0 +1,37 @@
+AI IMAGE GENERATION PROMPT — LinkedIn Post 05: The Playing for Change Parallel
+
+STYLE: Dual-panel editorial illustration, side-by-side comparison
+DIMENSIONS: 1200x627px (LinkedIn recommended)
+COLOR PALETTE: Primary background Deep Space (#0A0E1A), accents in Emerald Teal (#00D4AA), Electric Violet (#7C3AED), Warm Coral (#FF6B35)
+
+COMPOSITION:
+- Split design — two panels divided by a thin Emerald Teal vertical line in the center.
+
+LEFT PANEL — "Playing for Change":
+  - Background: Deep Space with warm amber/gold subtle overlay
+  - Visual: Abstract silhouettes of musicians on a street corner — one with a guitar, one with drums, one singing — connected by flowing sound waves
+  - Location pins scattered (Santa Monica, New Orleans, Mumbai, Soweto) with thin connecting lines
+  - Small icon: Musical note in Electric Violet
+  - Label at bottom: "Songs" in amber/gold
+
+RIGHT PANEL — "AI4Change":
+  - Background: Deep Space with Emerald Teal subtle overlay
+  - Visual: Abstract silhouettes of contributors at various settings — one at a farm, one at a laptop, one with a tablet — connected by flowing data/light streams
+  - Location pins scattered (Kenya, Berlin, Lagos, Bogota) with thin connecting lines
+  - Small icon: Code bracket with AI sparkle in Emerald Teal
+  - Label at bottom: "Solutions" in Emerald Teal
+
+CENTER DIVIDER: The thin vertical line transforms into a double helix or bridge connecting both panels, suggesting evolution and continuity.
+
+TOP CENTER (spanning both panels): "Same Model. Different Instrument." in Cloud White.
+BOTTOM CENTER: "AI4Change" wordmark in Emerald Teal.
+
+KEY PARALLELS (as small aligned text pairs, one on each side):
+  - "Music → AI"
+  - "Musicians → Contributors"
+  - "Songs → Solutions"
+  - "60+ countries → Global community"
+
+MOOD: Reverent yet forward-looking. The left panel honors the inspiration; the right panel shows the evolution. Together they tell the story of an idea carried forward. Equal weight to both panels — this is a tribute, not a takeover.
+
+DO NOT INCLUDE: Playing for Change logo or any trademarked imagery, photorealistic musicians, specific recognizable faces, musical instrument brands.
