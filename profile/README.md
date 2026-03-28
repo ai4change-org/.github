@@ -30,7 +30,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-ai4change--org.github.io-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change-org.github.io)
+**[ai4change.org](https://ai4change.org)**
+
+[![Website](https://img.shields.io/badge/Website-ai4change.org-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change.org)
 [![Twitter](https://img.shields.io/badge/Twitter-@ai4changeorg-0A0E1A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ai4changeorg)
 [![Problems](https://img.shields.io/github/issues/ai4change-org/problems?label=Problems%20Submitted&color=FF6B35&style=flat-square)](https://github.com/ai4change-org/problems/issues)
 [![Contributors](https://img.shields.io/github/contributors/ai4change-org/.github?label=Contributors&color=7C3AED&style=flat-square)](https://github.com/orgs/ai4change-org/people)
@@ -147,6 +149,14 @@ Farmer = Fortune 500 analyst
 
 We're in **Phase 1: Foundation** — collecting the first wave of real-world problems from communities worldwide. These are the seeds that will grow into our first "songs."
 
+### Active Projects
+
+| Project | Description | Status |
+|:--------|:------------|:------:|
+| **[water-watch](https://github.com/ai4change-org/water-watch)** | AI-powered water quality monitoring for underserved communities | Active |
+
+### Problem Areas
+
 <table>
 <tr><td>
 
@@ -245,8 +255,8 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 </div>
 
 <!-- BLOG-POSTS:START -->
-- [Introducing AI4Change: AI as the Great Equalizer](https://ai4change-org.github.io/blog/001-introducing-ai4change) — Why we started this, the Playing for Change parallel, and what comes next.
-- [The First 5 Problems: Seeds for Our First "Songs"](https://ai4change-org.github.io/blog/002-first-five-problems) — Agriculture, education, health, environment, and disaster response — real challenges from real communities.
+- [Why AI4Change Exists](https://ai4change.org/blog/001-why-ai4change.html) — The story of how a YouTube video of street musicians changed our understanding of what's possible.
+- [Our First 5 Problems](https://ai4change.org/blog/002-first-five-problems.html) — From water quality monitoring to education content generation — the five seed problems that define our first chapter.
 <!-- BLOG-POSTS:END -->
 
 > *More posts coming soon. Follow us on [Twitter](https://twitter.com/ai4changeorg) for updates.*
@@ -284,7 +294,7 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 **Read the Manifesto**
 <br><sub>Understand the why behind the what</sub>
 <br><br>
-<a href="https://ai4change-org.github.io/manifesto.html"><img src="https://img.shields.io/badge/Read-0A0E1A?style=for-the-badge&logoColor=white" alt="Manifesto"></a>
+<a href="https://ai4change.org/manifesto.html"><img src="https://img.shields.io/badge/Read-0A0E1A?style=for-the-badge&logoColor=white" alt="Manifesto"></a>
 
 </td>
 <td align="center" width="20%">
@@ -314,7 +324,7 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 ### Connect With Us
 
-[![Website](https://img.shields.io/badge/Website-ai4change--org.github.io-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change-org.github.io)
+[![Website](https://img.shields.io/badge/Website-ai4change.org-00D4AA?style=flat-square&logo=github-pages&logoColor=white)](https://ai4change.org)
 &nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-@ai4changeorg-0A0E1A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ai4changeorg)
 &nbsp;&nbsp;
@@ -330,12 +340,12 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 <sub>
 
-[Website](https://ai4change-org.github.io) ·
-[About](https://ai4change-org.github.io/about.html) ·
-[Manifesto](https://ai4change-org.github.io/manifesto.html) ·
-[Problems](https://ai4change-org.github.io/problems.html) ·
-[Contributors](https://ai4change-org.github.io/contributors.html) ·
-[Brand Guidelines](https://github.com/ai4change-org/ai4change-org.github.io/blob/main/assets/BRAND.md) ·
+[Website](https://ai4change.org) ·
+[About](https://ai4change.org/about.html) ·
+[Manifesto](https://ai4change.org/manifesto.html) ·
+[Problems](https://ai4change.org/problems.html) ·
+[Contributors](https://ai4change.org/contributors.html) ·
+[Brand Guidelines](https://ai4change.org/assets/BRAND.md) ·
 [Governance](https://github.com/ai4change-org/.github/blob/main/GOVERNANCE.md) ·
 [Security](https://github.com/ai4change-org/.github/blob/main/SECURITY.md) ·
 [Support](https://github.com/ai4change-org/.github/blob/main/SUPPORT.md)
