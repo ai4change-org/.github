@@ -284,7 +284,7 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 **Read the Manifesto**
 <br><sub>Understand the why behind the what</sub>
 <br><br>
-<a href="https://github.com/ai4change-org/.github/blob/main/docs/MANIFESTO.md"><img src="https://img.shields.io/badge/Read-0A0E1A?style=for-the-badge&logoColor=white" alt="Manifesto"></a>
+<a href="https://ai4change-org.github.io/manifesto.html"><img src="https://img.shields.io/badge/Read-0A0E1A?style=for-the-badge&logoColor=white" alt="Manifesto"></a>
 
 </td>
 <td align="center" width="20%">
@@ -330,14 +330,13 @@ We're in **Phase 1: Foundation** — collecting the first wave of real-world pro
 
 <sub>
 
-[Manifesto](https://github.com/ai4change-org/.github/blob/main/docs/MANIFESTO.md) ·
-[Brand Guidelines](https://github.com/ai4change-org/.github/blob/main/docs/BRAND.md) ·
-[Roadmap](https://github.com/ai4change-org/.github/blob/main/docs/ROADMAP.md) ·
-[Community](https://github.com/ai4change-org/.github/blob/main/docs/COMMUNITY.md) ·
+[Website](https://ai4change-org.github.io) ·
+[About](https://ai4change-org.github.io/about.html) ·
+[Manifesto](https://ai4change-org.github.io/manifesto.html) ·
+[Problems](https://ai4change-org.github.io/problems.html) ·
+[Contributors](https://ai4change-org.github.io/contributors.html) ·
+[Brand Guidelines](https://github.com/ai4change-org/ai4change-org.github.io/blob/main/assets/BRAND.md) ·
 [Governance](https://github.com/ai4change-org/.github/blob/main/GOVERNANCE.md) ·
-[Press Kit](https://github.com/ai4change-org/.github/blob/main/docs/press/ONE-PAGER.md) ·
-[FAQ](https://github.com/ai4change-org/.github/blob/main/docs/press/FAQ.md) ·
-[First Contribution](https://github.com/ai4change-org/.github/blob/main/docs/onboarding/FIRST-CONTRIBUTION.md) ·
 [Security](https://github.com/ai4change-org/.github/blob/main/SECURITY.md) ·
 [Support](https://github.com/ai4change-org/.github/blob/main/SUPPORT.md)
 
