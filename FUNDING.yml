@@ -2,6 +2,5 @@
 # See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 
 github: ai4change-org
-# open_collective: ai4change
-# ko_fi: ai4change
-# custom: ["https://ai4change-org.github.io/donate"]
+open_collective: ai4change
+custom: ["https://ai4change-org.github.io/donate"]
